@@ -1,3 +1,4 @@
+/*global $*/
 $(function(){
   //get dom elem  
   var $width  =$('#width'),
